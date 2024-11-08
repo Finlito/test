@@ -1,0 +1,6 @@
+// See it in action at http://localhost:3000/api/hello
+export default (()=>{
+    return 'Hello, world!';
+});
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkQ6XFxkaXNjXFxkZW1vMVxcc3JjXFxhcGlcXGhlbGxvLnRzIl0sInNvdXJjZXNDb250ZW50IjpbIi8vIFNlZSBpdCBpbiBhY3Rpb24gYXQgaHR0cDovL2xvY2FsaG9zdDozMDAwL2FwaS9oZWxsb1xuZXhwb3J0IGRlZmF1bHQgKCkgPT4ge1xuXHRyZXR1cm4gJ0hlbGxvLCB3b3JsZCEnXG59XG4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsc0RBQXNEO0FBQ3RELGVBQWUsQ0FBQTtJQUNkLE9BQU87QUFDUixDQUFBLEVBQUMifQ==
